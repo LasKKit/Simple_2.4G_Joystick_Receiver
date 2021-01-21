@@ -1,5 +1,8 @@
 /* Kod prijimace pro LasKKit Simple Joystick - Arduino Micro
  * PWM vystup D2,D3
+ * 
+ * Pouzita knihovna https://github.com/nRF24/RF24
+ * 
  */
 #include <SPI.h>
 #include <nRF24L01.h>
