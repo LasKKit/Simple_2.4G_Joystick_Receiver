@@ -1,4 +1,4 @@
-## LaskaKit Simple Joystick
+# LaskaKit Simple Joystick
 Are you looking for a finished trasnmitter and receiver, which you can easily program? Let's check our set of wireless transmitter and receiver which are based on Arduino evaluation boards and used wireless modules are nRF24L01 which are working on 2.4 GHz.
 
 ### Transmitter
